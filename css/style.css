@@ -21,3 +21,12 @@
         img{
             margin-left: 25%;
         }
+        h5{
+            display: inline;
+            border: 1px solid blue;
+            border-radius: 5px;
+            padding: 5px;
+            background-color: rgb(151, 187, 19);
+            color: white;
+            margin-left: 5px;
+        }
