@@ -30,3 +30,7 @@
             color: white;
             margin-left: 5px;
         }
+        h6{
+            display: inline;
+            padding: 5px;
+        }
